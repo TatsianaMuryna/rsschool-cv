@@ -8,3 +8,5 @@ I have basic programming skills in VS Code. I know the basics of HTML and CSS.
 English level: A1.
 ===
 [Link to the CV] (https://github.com/TatsianaMuryna/rsschool-cv/tree/gh-pages)
+===
+(https://github.com/TatsianaMuryna/rsschool-cv/tree/rsschool-cv-html)
