@@ -6,3 +6,5 @@ I prioritize quality work.  I guarantee a responsible approach to business.  The
 I have basic programming skills in VS Code. I know the basics of HTML and CSS.
 ===
 English level: A1.
+===
+[Link to the CV] (https://github.com/TatsianaMuryna/rsschool-cv/tree/gh-pages)
