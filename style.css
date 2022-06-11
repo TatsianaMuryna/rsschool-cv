@@ -46,7 +46,7 @@ html {
    justify-content: space-between;
    font-size: 18px;
    line-height: 1.5;
-   font-family: 'Roboto Mono', sans-serif;
+   font-family: 'Roboto';
    color:  #17202a;
 }
 .container{
@@ -79,6 +79,8 @@ html {
 .main {
    font-weight: 600;
    padding: 0 0 0 50px;
+   display: flex;
+   flex-wrap: wrap;
 }
 .footer {
    background-color: #1c2833;
@@ -152,13 +154,17 @@ html {
    font-size: 18px;
    color:  #000000;
 }
-.main-container{
-   display: flex;
-   flex-wrap: wrap;
-}
 .image{
    max-width: 185px;
    max-height: 200px;
    padding: 30px 0 0 0;
 }
 
+.email {
+   color: #1c2833;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url(./assets/fonts/RobotoMono-VariableFont_wght.ttf);
+}
